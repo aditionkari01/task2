@@ -1,0 +1,4 @@
+ Integrate a custom video player into the website with gesture-based controls. For instance, when users double-tap on the right side, the playback will move 10 seconds forward. Similarly, 
+if they double-tap on the left side, the playback should go 10 seconds backward. If the user single-taps in the middle of the screen, the playback should pause. if the user use three-taps on middle of screen we should move to next video.
+if they user use three-taps on right side we should close the website likewise if the user use 3 taps on left side we should show the comment section.
+ If the user use single tap on top right corner we should show current location and temperature like a popup message on notification. If we hold right side video show play 2X speed and if we hold left side the video should play 2X slow.
